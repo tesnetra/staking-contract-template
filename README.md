@@ -29,12 +29,19 @@ staking-contract-template/
 └── .gitignore
 ```
 
-**File Descriptions:**
+**💬File Descriptions:**
 
 - `Staking.sol` – Main staking smart contract  
 - `deploy.js` – Deployment script using Hardhat  
 - `Staking.test.js` – Unit tests for the staking logic  
 - `.gitignore` – Prevents unnecessary files (e.g. `node_modules/`) from being pushed to GitHub  
+
+**⚠Note:**
+
+- Edit Your Details on deploy.js
+  - Use Your Infura Project ID
+  - Use Your Wallet Address (Testnet/Burn)
+  - Change Private Key to Your Private Key
 
 ---
 
