@@ -16,6 +16,7 @@ Designed to help Web3 developers quickly build decentralized staking systems wit
 ---
 
 ## 📂 Project Structure
+
 ```
 staking-contract-template/
 │
